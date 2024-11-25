@@ -1,6 +1,6 @@
 # Hide status indicators
 
-Right now only hides the network indicator
+Right now only hides the network and volume indicators
 
 ## Installation
 
