@@ -1,0 +1,11 @@
+{
+  "description": "Remove status indicators from the top panel",
+  "name": "Hide Status Indicators",
+  "shell-version": [
+    "46",
+    "47"
+  ],
+  "url": "https://github.com/onesaladleaf/hide-status-indicators",
+  "uuid": "hide-status-indicators@onesaladleaf.github.io",
+  "version": 1
+}
